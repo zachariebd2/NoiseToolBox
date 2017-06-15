@@ -1,0 +1,19 @@
+
+#BEGIN GaussianNoiseGen
+  variance    =3.3e1
+#commentaire
+sed   =   3
+variance    =a    
+#END GaussianNoiseGen
+
+
+
+
+
+
+
+#BEGIN Data
+f
+34	a	-0.7	12.23	3.3	3.	2e-2 
+34	a	-0.7	12.23	3.3	3.	2e-2 
+#END Data

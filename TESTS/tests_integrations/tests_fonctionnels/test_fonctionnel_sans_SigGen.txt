@@ -1,0 +1,33 @@
+
+
+#BEGIN WhiteNoiseGen
+amp=    2
+sEEd   =   1
+#END WhiteNoiseGen
+
+#BEGIN GaussianNoiseGen
+average=    -2
+variance    =3.3e1
+seed   =   2    
+#END GaussianNoiseGen
+
+#BEGIN SigAmp
+gain=    -2
+oFFset    =3.3e1
+#END SigAmp
+
+#BEGIN SigPlot
+title =     "graph_title"    
+out   =   "output_file"   
+imaGE_name=    "output_image"     
+x_label = "xAxis" 
+y_label =   "yAxis"
+shAPe=      "line"
+scale="linear"
+color="blue"
+image_type = "jpg"
+#END SigPlot
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

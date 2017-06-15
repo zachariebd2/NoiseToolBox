@@ -1,0 +1,19 @@
+
+#BEGIN SigGen
+phase   = 2
+frequency= 3.3  
+amplitude = 23e-1 
+%commentaire
+sampling_freq =   4
+signal = square
+amplitude = 3
+n_sample = 6
+#END SigGen
+
+
+
+
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

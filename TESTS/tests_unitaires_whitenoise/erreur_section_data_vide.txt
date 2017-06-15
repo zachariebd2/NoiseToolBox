@@ -1,0 +1,10 @@
+
+#BEGIN WhiteNoiseGen
+amp=    2
+seed   =   3.1e-1
+%commentaire
+#END WhiteNoiseGen
+
+
+#BEGIN Data
+#END Data

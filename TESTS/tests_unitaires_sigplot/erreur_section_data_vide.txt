@@ -1,0 +1,17 @@
+
+#BEGIN SigPlot
+title =     "graph_title"    
+out   =   "output_file"   
+image_name=    "output_image"     
+x_label = "xAxis" 
+%commentaire
+y_label =   "yAxis"
+shape=      "line"
+scale="log"
+color="blue"
+#END SigPlot
+
+
+
+#BEGIN Data
+#END Data

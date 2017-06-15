@@ -1,0 +1,10 @@
+
+#BEGIN WhiteNoiseGen
+amp=    2
+%commentaire
+#END WhiteNoiseGen
+
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

@@ -1,0 +1,13 @@
+
+#BEGIN SigPlot
+title =     "graph_title"    
+out   =   "output_file"   
+imaGE_name=    "output_image"     
+x_label = "xAxis" 
+#END SigPlot
+
+
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

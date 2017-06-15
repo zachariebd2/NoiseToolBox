@@ -1,0 +1,35 @@
+#BEGIN SigGen
+phase   = 2
+frequency= 0.3234
+amplitude = 23e-1 
+sAMpling_freq =   0.836
+signal = sinus
+%commentaire
+n_sample = 200
+#END SigGen
+
+#BEGIN WhiteNoiseGen
+amp=    2
+sEEd   =   1
+#END WhiteNoiseGen
+
+#BEGIN SigAmp
+gain=    -2
+oFFset    =3.3e1
+#END SigAmp
+
+#BEGIN SigPlot
+title =     "graph_title"    
+out   =   "output_file"   
+imaGE_name=    "output_image"     
+x_label = "xAxis" 
+y_label =   "yAxis"
+shAPe=      "line"
+scale="linear"
+color="blue"
+image_type = "jpg"
+#END SigPlot
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

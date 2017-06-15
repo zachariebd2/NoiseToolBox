@@ -1,0 +1,18 @@
+
+#BEGIN SigAmp
+gain=    a    
+offset    =3.3e1
+%commentaire
+#END SigAmp
+
+
+
+
+
+
+
+
+
+#BEGIN Data
+34	3	-0.7	12.23	3.3	3.	2e-2 
+#END Data

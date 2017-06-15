@@ -1,0 +1,16 @@
+
+#BEGIN GaussianNoiseGen
+average=    -2
+variance    =3.3e1
+%commentaire
+seed   =   3    
+#END GaussianNoiseGen
+
+
+
+
+
+
+
+#BEGIN Data 
+#END Data
