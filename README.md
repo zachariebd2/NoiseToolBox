@@ -21,9 +21,8 @@ WhiteNoiseGen, GaussianNoiseGen and SigAmp can be called in different orders, or
 
 SigPlot write a new configuration text file containing the resulting signal and sends plotting instructions to gnuplot 
 
-gnuplot makes a plot of the resulting signal
+gnuplot makes a plot of the resulting signal, it can be installed with apt-get install gnuplot
 
 gnuplot cannot be called  without SigPlot
 
 
-IMPORTANT: gnuplot.exe doesn't work for now
