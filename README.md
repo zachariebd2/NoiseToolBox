@@ -26,3 +26,4 @@ gnuplot makes a plot of the resulting signal
 gnuplot cannot be called  without SigPlot
 
 
+IMPORTANT: I didn't do the gnuplot.exe application, it was given to me as is
